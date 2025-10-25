@@ -99,6 +99,7 @@ class Developer:
 ## 🏆 **Expertise & Capabilities**
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e3f2fd','primaryTextColor':'#0d47a1','primaryBorderColor':'#2196f3','lineColor':'#42a5f5','secondaryColor':'#fff3e0','tertiaryColor':'#f3e5f5','secondaryTextColor':'#e65100','tertiaryTextColor':'#6a1b9a','secondaryBorderColor':'#ff9800','tertiaryBorderColor':'#9c27b0'}}}%%
 mindmap
   root((Yani Mohellebi))
     Backend Development
