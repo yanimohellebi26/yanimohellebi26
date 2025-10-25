@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yanimohellebi.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yanimohellebi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yani.mohellebi@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanimohellebi@gmail.com)
 
 </div>
 
@@ -20,7 +20,7 @@
 class Developer:
     def __init__(self):
         self.name = "Yani Mohellebi"
-        self.role = "Full-Stack Developer & AI Engineer"
+        self.role = "Full-Stack Developer &amp; AI Engineer"
         self.location = "Dijon, France 🇫🇷"
         self.passions = ["AI Systems", "Intelligent Bots", "Scalable Architecture"]
         self.current_focus = ["NLP", "Machine Learning", "LLM Integration"]
@@ -102,22 +102,22 @@ class Developer:
 mindmap
   root((Yani Mohellebi))
     Backend Development
-      FastAPI & Django
+      FastAPI &amp; Django
       RESTful APIs
       Microservices
       Database Design
     Frontend Development
-      React & Svelte
+      React &amp; Svelte
       TypeScript
       Responsive Design
       State Management
     AI & ML
-      NLP & Transformers
+      NLP &amp; Transformers
       LLMs Integration
       Model Training
       Data Processing
     DevOps
-      Docker & Containers
+      Docker &amp; Containers
       CI/CD Pipelines
       Linux Administration
       Cloud Deployment
@@ -148,10 +148,10 @@ mindmap
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   🧠 Natural Language Processing  →  Building conversational AI     ║
-║   🔮 LLM Applications            →  Integrating GPT & Claude  ║
+║   🔮 LLM Applications            →  Integrating GPT &amp; Claude  ║
 ║   🌐 Full-Stack Architecture     →  End-to-end solutions      ║
-║   📊 Data-Driven Systems         →  Analytics & Insights      ║
-║   🚀 Performance Optimization    →  Speed & Scalability       ║
+║   📊 Data-Driven Systems         →  Analytics &amp; Insights      ║
+║   🚀 Performance Optimization    →  Speed &amp; Scalability       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -166,20 +166,20 @@ mindmap
 learning_roadmap = {
     "mastered": [
         "Python ecosystem (FastAPI, Django, Pandas)",
-        "React & modern frontend frameworks",
-        "SQL & NoSQL databases",
-        "Docker & containerization"
+        "React &amp; modern frontend frameworks",
+        "SQL &amp; NoSQL databases",
+        "Docker &amp; containerization"
     ],
     "advancing": [
-        "Advanced NLP & transformer models",
-        "MLOps & model deployment strategies",
-        "System design & architecture patterns",
+        "Advanced NLP &amp; transformer models",
+        "MLOps &amp; model deployment strategies",
+        "System design &amp; architecture patterns",
         "Cloud-native development (AWS/GCP)"
     ],
     "exploring": [
         "Rust for high-performance systems",
         "WebAssembly for browser-based ML",
-        "Edge computing & IoT integration",
+        "Edge computing &amp; IoT integration",
         "Quantum computing fundamentals"
     ]
 }
@@ -225,7 +225,7 @@ I'm always open to collaborating on innovative projects, discussing AI/ML, or ju
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00D9FF?style=for-the-badge)](https://www.yanimohellebi.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yanimohellebi)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:yanimohellebi@gmail.com)
 
 </div>
 
