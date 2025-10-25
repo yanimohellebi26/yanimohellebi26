@@ -8,7 +8,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yanimohellebi.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yanimohellebi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yani.mohellebi@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@yanimohellebi.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanimohellebi26)
 
 </div>
 
@@ -93,6 +94,25 @@ class Developer:
 </td>
 </tr>
 </table>
+
+---
+
+## 📖 **Latest Blog Posts & Articles**
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+*Coming Soon: Technical articles on AI, ML, and software development*
+<!-- BLOG-POST-LIST:END -->
+
+**Topics I Write About:**
+- 🧠 Artificial Intelligence & Machine Learning
+- 🐍 Python Best Practices & Advanced Patterns
+- 🌐 Full-Stack Development Architecture
+- 🚀 Performance Optimization Techniques
+- 📊 Data Engineering & Analytics
+
+</div>
 
 ---
 
@@ -217,6 +237,74 @@ learning_roadmap = {
 
 ---
 
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yanimohellebi26&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanimohellebi26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanimohellebi26&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yanimohellebi26&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yanimohellebi26&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+---
+
+## 🎯 **Featured Projects**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI/ML Projects
+*Coming Soon: Innovative AI solutions*
+- **NLP Applications**: Chatbots & text analysis
+- **ML Models**: Custom trained models
+- **LLM Integration**: GPT-powered applications
+- **Data Analytics**: Insights & predictions
+
+</td>
+<td width="50%" align="center">
+
+### 💻 Full-Stack Applications
+*Coming Soon: Web & mobile applications*
+- **API Development**: RESTful services
+- **Web Apps**: React/Svelte interfaces
+- **Real-time Systems**: WebSocket solutions
+- **Database Design**: Scalable architectures
+
+</td>
+</tr>
+</table>
+
+<sub>⭐ Check out my repositories below for more projects!</sub>
+
+</div>
+
+---
+
 ## 📫 **Let's Connect**
 
 <div align="center">
@@ -225,7 +313,8 @@ I'm always open to collaborating on innovative projects, discussing AI/ML, or ju
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00D9FF?style=for-the-badge)](https://www.yanimohellebi.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yanimohellebi)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:contact@yanimohellebi.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/yanimohellebi26)
 
 </div>
 
@@ -236,5 +325,59 @@ I'm always open to collaborating on innovative projects, discussing AI/ML, or ju
 ### **💻 "Code is poetry, AI is the future"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yanimohellebi26&color=00D9FF&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/yanimohellebi26?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/yanimohellebi26)
+[![GitHub stars](https://img.shields.io/github/stars/yanimohellebi26?label=Stars&style=for-the-badge&color=00D9FF)](https://github.com/yanimohellebi26)
+
+</div>
+
+---
+
+## 🤝 **Contributing & Collaboration**
+
+<div align="center">
+
+I'm always excited to collaborate on:
+- 🤖 **AI/ML Projects**: NLP, LLMs, computer vision
+- 🌐 **Open Source**: Contributing to meaningful projects
+- 💡 **Innovative Ideas**: Turning concepts into reality
+- 📚 **Knowledge Sharing**: Tech talks, mentoring, pair programming
+
+**Feel free to:**
+- ⭐ Star repositories you find interesting
+- 🐛 Report issues or suggest improvements
+- 🔄 Fork and contribute to projects
+- 💬 Reach out for collaboration opportunities
+
+</div>
+
+---
+
+## ☕ **Support My Work**
+
+<div align="center">
+
+If you find my projects helpful or interesting, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yanimohellebi)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yanimohellebi)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yanimohellebi)
+
+*Your support helps me create more open-source projects and educational content!* ❤️
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Yani Mohellebi**
+
+*Last Updated: October 2025*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanimohellebi26/yanimohellebi26/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanimohellebi26/yanimohellebi26/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yanimohellebi26/yanimohellebi26/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
